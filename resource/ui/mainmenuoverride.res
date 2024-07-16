@@ -871,7 +871,7 @@
 		"tall"		"64"
 		"visible"	"1"
 		"enabled"	"1"
-		"fillcolor"	"0 0 0 200"
+		"fillcolor"	"0 0 0 220"
 	}
 
 	"NoGCMessage"
@@ -986,8 +986,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_ShowButtonPanel"
-		"xpos"			"c148"
-		"ypos"			"28"
+		"xpos"			"c385"
+		"ypos"			"60"
 		"zpos"			"10"
 		"wide"			"32"
 		"tall"			"32"
@@ -1089,8 +1089,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"WatchStreamButton"
-		"xpos"			"c188"
-		"ypos"			"28"
+		"xpos"			"c375000"
+		"ypos"			"80"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -1162,8 +1162,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"QuestLogButton"
-		"xpos"			"c228"
-		"ypos"			"28"
+		"xpos"			"c375000"
+		"ypos"			"75"
 		"zpos"			"1"
 		"wide"			"32"
 		"tall"			"32"
@@ -1235,7 +1235,7 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"MOTD_ShowButtonPanel"
-		"xpos"			"c268"
+		"xpos"			"c385"
 		"ypos"			"28"
 		"zpos"			"1"
 		"wide"			"32"
@@ -1682,8 +1682,8 @@
 	{
 		"ControlName"	"EditablePanel"
 		"fieldName"		"Notifications_Panel"
-		"xpos"			"c0"
-		"ypos"			"102"
+		"xpos"			"c50"
+		"ypos"			"75"
 		"zpos"			"10"
 		"wide"			"210"
 		"tall"			"80"
@@ -2020,7 +2020,7 @@
 		"tall"		"276"
 		"visible"	"1"
 		"enabled"	"1"
-		"fillcolor"	"0 0 0 200"
+		"fillcolor"	"0 0 0 220"
 	}
 
 
