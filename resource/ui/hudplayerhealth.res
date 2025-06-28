@@ -11,7 +11,7 @@
 		"ypos"			"96"
 		"wide"			"64"
 		"tall"			"64"
-		"image"			"replay/thumbnails/face_p1"
+		"image"			"replay/thumbnails/hoe"
 		"scaleImage"	"1"
 		"alpha"			"255"
 	}
@@ -71,7 +71,7 @@
 		"ypos"			"96"
 		"wide"			"64"
 		"tall"			"64"
-		"image"			"replay/thumbnails/face_p5"
+		"image"			"replay/thumbnails/wheat"
 		"scaleImage"	"1"
 		"alpha"			"0"
 	}
@@ -86,7 +86,7 @@
 		"ypos"			"96"
 		"wide"			"64"
 		"tall"			"64"
-		"image"			"replay/thumbnails/face_invul1"
+		"image"			"replay/thumbnails/corn"
 		"scaleImage"	"1"
 		"alpha"			"0"
 	}

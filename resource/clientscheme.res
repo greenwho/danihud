@@ -2899,7 +2899,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Angerygreen Regular"
+				"name"		"green"
 				"tall"		"48"
 				"additive"	"0"
 				"antialias"	"1"
@@ -5889,8 +5889,8 @@ Scheme
 		}
 		"8"
 		{
-			"font" "resource/fonts/Angerygreen-Regular.ttf"
-			"name" "Angerygreen Regular"
+			"font" "resource/fonts/green.ttf"
+			"name" "green"
 		}
 		"9"
 		{
